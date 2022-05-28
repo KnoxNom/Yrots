@@ -1,8 +1,8 @@
 #include <stdio.h>
-// #include <unistd.h>
 
 int main() {
-   println("Yrots");
-    
+   printf("Yrots\n");
+   printf("Ah ah ah one dracula, ah ah ah two dracula's, ah ah ah three dracula's ah ah ah (￣y▽,￣)╭ ");
+
     return 0;
 }
