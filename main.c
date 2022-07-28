@@ -10,6 +10,7 @@ int main() {
    printf("Wang\n");
    printf("i was told to write something here...\n");
    printf("The Ends...\n"); // No, I didn't make a spelling mistake it is "The Ends..." just go check :D
-   
+   printf("Gonna rebrand soon...\n");
+   printf("The Ends...\n");
    return 0;
 }
